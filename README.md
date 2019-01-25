@@ -17,8 +17,6 @@ Execute this command if you get the following error:
 
 > $ xhost +local:
 
-# Mac execution
-This is more complex, will be documented later
 
 # Features
 * Log outgoing and incoming packets
