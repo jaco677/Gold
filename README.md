@@ -1,7 +1,8 @@
 # Gold
 Habbo packet logger & manipulator for Windows, Linux and Mac.
 
-- Requires Java 8
+- Requires Java 8 https://www.java.com/nl/download/
+- The last supported Visual C ++ https://support.microsoft.com/nl-be/help/2977003/the-latest-supported-visual-c-downloads
 
 # Windows execution
 Double click Gold.exe, which will be delivered in the release. Note that executing Gold requires admin privileges.
